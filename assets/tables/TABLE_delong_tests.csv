@@ -1,0 +1,7 @@
+Comparison,AUC_base,AUC_stack,DeltaAUC,DeLong_p,TOST_90%_CI,TOST_p,Equivalent,Borderline
+Stack vs LightGBM,0.8694,0.8683,-0.001,0.5522,"[-0.0038, +0.0018]",7.875428731374257e-08,True,False
+Stack vs XGBoost,0.8622,0.8683,0.0061,0.0007,"[+0.0031, +0.0091]",0.015956124817791816,True,False
+Stack vs FT-Transformer,0.8605,0.8683,0.0079,0.0,"[+0.0058, +0.0100]",0.047014657247575024,True,True
+Stack vs Random Forest,0.8513,0.8683,0.0171,0.0,"[+0.0127, +0.0215]",0.9957518869291613,False,False
+Stack vs GBM,0.8633,0.8683,0.0051,0.0061,"[+0.0020, +0.0081]",0.0036268300207957208,True,False
+Stack vs SVM-RBF,0.8506,0.8683,0.0178,0.0,"[+0.0127, +0.0228]",0.9944881721100705,False,False
