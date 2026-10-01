@@ -1,8 +1,0 @@
-gradio>=6.0,<7.0
-pandas>=2.0
-numpy>=1.26
-scikit-learn==1.8.0
-lightgbm>=4.0
-xgboost>=2.0
-torch>=2.2
-joblib>=1.3
